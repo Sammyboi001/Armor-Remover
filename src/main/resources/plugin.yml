@@ -1,0 +1,5 @@
+name: MushroomCraftArmorRemover
+version: ${project.version}
+main: mushroomcraft.armorremover.Armorremover
+authors: [ SammyBoi001 ]
+description: On join armor remover
