@@ -1,9 +1,7 @@
 package mushroomcraft.armorremover;
 
-import com.sun.corba.se.spi.activation.ServerManager;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
-import org.bukkit.plugin.ServicesManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Armorremover extends JavaPlugin {
